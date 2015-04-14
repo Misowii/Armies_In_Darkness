@@ -1,0 +1,13 @@
+Power lines transfer power from power plants to buildings that require power(Barracks,lights,...)
+	-Lazers connect power lines to the surounding buildings.
+		-Lazers can be blocked by enemy units.
+		-Deal damage to enemy units that block lazers based on how long they have been blocking.
+		-Allied units do not block lazers. Power supply transfers through the units life support.
+	-Produce a small amount of light around construction.
+	***Can charge power storage trucks
+
+Build cost:			
+Build Time:
+Health:				
+Armour:
+PowerConsumptionRate:

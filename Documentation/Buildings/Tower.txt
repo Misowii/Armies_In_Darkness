@@ -1,0 +1,9 @@
+Protects near by area by lighting the area and attacking enemies.
+
+Build cost:			
+Build Time:
+Health:				
+Armour:
+PowerConsumptionRate:
+
+	

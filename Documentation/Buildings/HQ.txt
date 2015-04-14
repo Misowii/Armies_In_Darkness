@@ -1,0 +1,10 @@
+Main building. Produces workers and drop off point for resources.
+
+Build cost:			
+Build Time:
+Health:				
+Armour:
+PowerConsumptionRate:
+
+Unit:		Cost:		Build Time:
+Worker

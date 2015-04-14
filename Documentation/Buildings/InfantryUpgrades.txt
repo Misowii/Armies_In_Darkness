@@ -1,0 +1,9 @@
+Contains Upgrades for Infantry Units.
+
+Build cost:			
+Build Time:
+Health:				
+Armour:
+PowerConsumptionRate:
+
+Upgrade:	AffectedUnit:		Cost:		Build Time:	

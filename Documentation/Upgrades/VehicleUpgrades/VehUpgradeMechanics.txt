@@ -1,0 +1,4 @@
+Vehicle Upgrades can be purchased at the different vehicle creation buildings depending on
+type of vehicle(air at airpot, tanks and heavy vehicle depot). Upgrades can be damage for 
+everything built in that building, to specific unit abilities. These will be one time buy 
+permanent upgrades.

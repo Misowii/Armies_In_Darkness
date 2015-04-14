@@ -1,0 +1,4 @@
+Usable items are purchased through the "Usable" building. Items can be
+purchased by limiting amounts for "cash" resource and used by specific 
+units. Each item can only be used by it's specific unit except glow sticks
+can be used by all humanoids. 

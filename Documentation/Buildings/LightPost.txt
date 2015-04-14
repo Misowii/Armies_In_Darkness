@@ -1,0 +1,10 @@
+Produces light in a large area around construction.
+
+Build cost:			
+Build Time:
+Health:				
+Armour:
+PowerConsumptionRate:
+
+
+	

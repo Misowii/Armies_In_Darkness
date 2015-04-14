@@ -1,0 +1,8 @@
+Drop off point for ***Cash*** resource.
+
+Build cost:			
+Build Time:
+Health:				
+Armour:
+PowerConsumptionRate:
+

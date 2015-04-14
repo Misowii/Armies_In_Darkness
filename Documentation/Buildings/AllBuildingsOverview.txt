@@ -1,0 +1,33 @@
+Name:		Prereq:		Purpose
+
+***HQ***	None		Main building. Resource depot/produces workers.
+
+Power/Resources
+
+Light Post	None		Provide light
+Power Plant	None		Produces power for buildings/units and collects fuel resource
+Power Lines	None		Transfers power from power plant to other buildings
+Depot		None		Collect resources from harvesters
+
+
+Defence
+
+***Fence***	None		Delay enemies
+Tower		***		Automatically fires upon enemies and can be garrisoned with units to do more damage
+
+
+Unit Producing
+
+Barracks		PowerPlant	Produce infantry
+Light Vehicle Depot	Barracks	Produces light ground vehicles
+Heavy Vehicle Depot	LightVeh	Produces heavy ground vehicles
+Airstrip		Barracks	Produces light air units
+Airfield		Airstrip	Produces heavy air units
+
+
+Upgrades
+
+***Infantry***	Barracks	Upgrades Barracks units
+***GVehicles***	LightVeh	Upgrades ground vehicles
+***AirVeh***	LightAir	Upgrades ground vehicles
+***Usuables***	PowerPlant	Provides one time use items/abilities for all units

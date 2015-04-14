@@ -1,0 +1,14 @@
+Gathers resources and transports them to depots or power plant. Also builds buildings.
+
+Health:
+Damage:
+Range:
+Air attack: No
+Splash: 
+Ground attack: Yes
+Splash: 
+Attack Speed:
+Armour:
+Movement Speed:
+Abilities:
+PowerConsumptionRate:

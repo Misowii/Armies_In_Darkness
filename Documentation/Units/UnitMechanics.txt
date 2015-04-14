@@ -1,0 +1,12 @@
+Health:
+Damage:
+Range:
+Air attack:
+Splash: 
+Ground attack:
+Splash: 
+Attack Speed:
+Armour:
+Movement Speed:
+Abilities:
+PowerConsumptionRate:

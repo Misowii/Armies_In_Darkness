@@ -1,0 +1,9 @@
+Contains one time use items to be purchased for use on the battlefield.
+
+Build cost:			
+Build Time:
+Health:				
+Armour:
+PowerConsumptionRate:
+
+Upgrade:	AffectedUnit:		Cost:		Build Time:	

@@ -1,0 +1,14 @@
+Produces infantry.
+
+Building cost:			
+Build Time:
+Health:				
+Armour:
+PowerConsumptionRate:
+
+Units:			Cost:		Build Time:
+Marine
+Flamer
+Commander
+Civet Soldier
+Medic

@@ -1,0 +1,13 @@
+Produces Heavy Air Vehicles.
+
+Build Cost:			
+Build Time:
+Health:				
+Armour:
+PowerConsumptionRate:
+
+Unit:				Cost:		Build Time:
+Bomber
+Attack Helicopter
+Mobile Oppression palace
+Heavy Fighter

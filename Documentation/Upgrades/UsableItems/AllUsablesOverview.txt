@@ -1,0 +1,25 @@
+Item:				Usable by:			Purpose:
+
+Glow stick			Every Humanoid		Can be thrown to light up a near by area for a
+										period of time. Light dims and fades over time.
+
+			
+Grenade				Marine				Can be thrown to cause splash damage in a small area.
+
+
+Incendiary Grenade	Flamer				Can be thrown to cause consistant fire damage in
+										an area. Provides light in the area and fades over
+										time. (lasts much less time than the glow stick)
+						
+
+Portable Battery	Civet Soldier		Placed on the ground and provides a temporary charging
+charger									station for individual units at a time. Lasts limited time.
+
+
+Portable Barrier	Medic				Place and provide a sphere of protection that reduces incoming
+										projectiles for a limited time. Also damages units that walk 
+										through. Can only have Barrier or Aoe Healing Device at one time.
+										
+
+Aoe Healing Device	Medic				Place and provide healing to every unit in the area for a 
+										short period. Can only have Barrier or Aoe Healing Device at a time.

@@ -1,0 +1,10 @@
+Contains Upgrades for Air Vehicles.
+
+
+Build cost:			
+Build Time:
+Health:				
+Armour:
+PowerConsumptionRate:
+
+Upgrade:	AffectedUnit:		Cost:		Build Time:		

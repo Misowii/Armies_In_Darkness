@@ -1,0 +1,5 @@
+Most buildings and units need power to work. 
+	-Power plants produce power and power lines transfer to other buildings. 
+	-Power levels must be maintained to keep units' light sources working as well as
+	***life support***.
+	-More Units and buildings drain more power.

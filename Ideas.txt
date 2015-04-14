@@ -1,0 +1,12 @@
+Face Hugger
+	- weak but sneaky
+	- implants human with seed
+	- seed explodes (time or player set off) and produces fear and small alien
+	- Depending on unit exploded more fear produced (regular vs medic vs officer)
+	- No indecation of seed implanted except if the player sees it happen.(mind controlled?)
+	- infected pukes
+
+No indications
+	- only "Unit has been killed"
+	
+

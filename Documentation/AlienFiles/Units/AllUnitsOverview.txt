@@ -1,0 +1,3 @@
+Name:			Built:			Purpose:
+***Zergling***		***			Cheap weak unit to mass.
+***Lurker***		***			Unit that can burrow or sneak past lights without being seen.

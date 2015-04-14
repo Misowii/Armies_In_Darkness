@@ -1,0 +1,9 @@
+Tech Tree Philosophy:
+	Buildings can serve the follow purposes:
+		1. Store/collect resources
+		2. Produce Units
+		3. Get permenant upgrades for units
+		4. Get one time upgrades for units
+		5. Give passive boosts to units
+	It would probably be best no building served more than one function from 2, 3, and 5.
+	This logical seperation would offer distinctive building choices.

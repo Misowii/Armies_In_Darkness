@@ -1,0 +1,13 @@
+Upgrade:			Unit:				building:				Purpose:
+
+incendiary rounds	Heavy Artillary		HeavyVeh				Allows the vehicle to shoot incendiary round that will cause fire
+																to persist in location of shot for a small time, dealing damage 
+																and lighting the area, dissipates reducing size and amount of light
+			
+						
+AA rockets			Attack Heli			HeavyAir				Allows the attack helicopter to attack air units with homing rockets. 
+																as well as attacking ground units. (same time).
+																
+
+AA rockets			Flak Car			LightVeh				Allows the Flak car to switch to rockets that deal more damage to
+																individual units. (Flak shots do less but aoe)

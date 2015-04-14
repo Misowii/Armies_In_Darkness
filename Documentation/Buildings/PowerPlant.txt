@@ -1,0 +1,11 @@
+Produces power to be transfered to a power line and on to other buildings.
+	-Produces a small base amount of power without fuel.
+	-Produces greater amounts of power when provided with fuel.
+
+Build cost:			
+Build Time:
+Health:				
+Armour:
+PowerConsumptionRate:
+
+PowerProductionRate:

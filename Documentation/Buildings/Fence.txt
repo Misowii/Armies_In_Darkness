@@ -1,0 +1,7 @@
+Blocks enemy movements.
+
+Build cost:			
+Build Time:
+Health:				
+Armour:
+PowerConsumptionRate:

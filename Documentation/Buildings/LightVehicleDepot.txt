@@ -1,0 +1,13 @@
+Produces Light Vehicles.
+
+Build cost:			
+Build Time:
+Health:				
+Armour:
+PowerConsumptionRate:
+
+Units:			Cost:		Build Time:
+Transport Buggy
+Scount Car
+Flak Car
+Repair Buggy

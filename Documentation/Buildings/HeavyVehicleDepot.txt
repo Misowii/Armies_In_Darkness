@@ -1,0 +1,14 @@
+Produces Heavy Armour.
+
+Build cost:			
+Build Time:
+Health:				
+Armour:
+PowerConsumptionRate:
+
+Units:			Cost:		Build Time:
+
+Tank
+Heavy Artillery
+Support Truck
+Heavy Transport

@@ -1,0 +1,35 @@
+Name:			Built:		Purpose:
+
+***Worker***		HQ		Collects resources and builds buildings
+
+Marine			Barracks	Cheap military unit that can be upgraded for greater strength
+Flamer			Barracks	Flamethrower unit, good for aoe damage and produces light when firing
+Commander		Barracks	Provides bonuses to nearby infantry units
+Civet Soldier	Barracks	Lightly armoured but high damage/can use nightvision
+Medic			Barracks	Heals nearby infantry units
+
+
+Support Truck		HeavyVeh	Charges at power plant and can provide forward power to units out of range
+								of power plants/lines.
+Tank				HeavyVeh	medium range/medium damage/medium speed
+Heavy Artillery		HeavyVeh	Long range/high damage/ slow speed
+Heavy Transport		HeavyVeh	Transports large amount of troups/can attack when garrisoned with units
+
+
+
+TransportBuggy		LightVeh	Quickly transport gear, resources, or a single unit
+Scout Car			LightVeh	Vehicle with large light radius
+Flak Car			LightVeh	High damage vs air/cannot attack ground units
+Repair Buggy		LightVeh	Can repair nearby vehicles ground/air
+
+
+Recon Plane			LightAir	fast moving low damage air vehicle
+Light Fighter		LightAir	Anti air flying vehicle/no ground attack
+Air Transport		LightAir	can transport few infantry units
+Support Copter		LightAir	can reveal hidden units/other support abilities
+
+
+Bomber				HeavyAir	Only attacks ground
+AttackHelicopter	HeavyAir	Attacks ground and air
+MobileOpressionPa	HeavyAir	Heavly armoured/Heavy damage/slow moving
+Heavy Fighter		HeavyAir	improved fighter

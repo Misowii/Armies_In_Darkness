@@ -1,0 +1,14 @@
+Produces Light Air Vehicles.
+
+Build Cost:		
+Build Time:
+Health:				
+Armour:
+PowerConsumptionRate:
+
+Units:			Cost:		Build Time:
+
+Recon Plane
+Light Fighter
+Air Transport
+Support Copter
